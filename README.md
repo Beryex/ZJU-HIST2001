@@ -1,5 +1,5 @@
 # HIST 2001: Modern Chinese History @ ZJU Spring 2023 by Bryan Wang
-[Bryan Wang](https://github.com/Wang-Boyao) | HIST 2001: Modern Chinese History, Spring 2023  
+[Bryan Wang](https://github.com/Beryex) | HIST 2001: Modern Chinese History, Spring 2023  
 Instructor:  
 [赵晖](https://person.zju.edu.cn/123) @ Zhejiang University
 
